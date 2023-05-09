@@ -1,0 +1,7 @@
+Skills that i will get on the course:
+1) knowledge of software testing types, methodologies, and techniques
+2) familiarity with certain bug tracking and test management tools
+3) understanding of different SDLC models
+4) knowledge of a particular programming language for test automation
+5) knowledge of technologies in Web and Mobile
+6) knowledge of Database and SQL
