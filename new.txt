@@ -1,6 +1,7 @@
-first name - Kirill
-last name - Katomin
-surname - Dmitrievich
-age - 30 year old
-number of pets - 0
-desired salary - 200000
+Personal information:
+1) first name - Kirill
+2) last name - Katomin
+3) surname - Dmitrievich
+4) age - 30 year old
+5) number of pets - 0
+6) desired salary - 200000
