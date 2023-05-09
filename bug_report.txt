@@ -1,0 +1,10 @@
+Structure of bug report:
+1) id
+2) environment
+3) title
+4) precondition
+5) steps to reproduce
+6) expected result
+7) actual result
+8) attachments
+9) bug link
