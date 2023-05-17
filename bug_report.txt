@@ -6,6 +6,6 @@ Structure of bug report:
 5) steps to reproduce : 1. Navigate to ******.com 2. Scroll 1 and 3 page of multiple selector
 6) expected result : Button [Practise For Free] full rendered
 7) actual result: Button [Practise For Free] on page 1 and 3 of multiple selector on license CYSEC not fully rendered and on 1 page on license SCB
-8) attachments : video
+8) attachments : video link
 9) bug started: @KKatomin
 10) bug comments: -
