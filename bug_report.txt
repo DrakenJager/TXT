@@ -1,10 +1,11 @@
 Structure of bug report:
-1) id
-2) environment
-3) title
-4) precondition
-5) steps to reproduce
-6) expected result
-7) actual result
-8) attachments
-9) bug link
+1) id: 1
+2) severity: trivial
+3) environment: Windows 10, Firefox 112
+4) title: Button [Practise For Free] on multiple selector of main page not fully rendered
+5) steps to reproduce : 1. Navigate to ******.com 2. Scroll 1 and 3 page of multiple selector
+6) expected result : Button [Practise For Free] full rendered
+7) actual result: Button [Practise For Free] on page 1 and 3 of multiple selector on license CYSEC not fully rendered and on 1 page on license SCB
+8) attachments : video
+9) bug started: @KKatomin
+10) bug comments: -
