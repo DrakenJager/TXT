@@ -8,4 +8,4 @@ Structure of bug report:
 7) actual result: Button [Practise For Free] on page 1 and 3 of multiple selector on license CYSEC not fully rendered and on 1 page on license SCB
 8) attachments : video link
 9) bug started: @KKatomin
-10) bug comments: -
+10) bug comments: none
